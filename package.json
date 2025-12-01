@@ -1,12 +1,8 @@
 {
-  "name": "autobahn-espo",
+  "name": "autobahn-panda",
   "version": "0.1.0",
-  "description": "AutobagnJS lib for Espo.",
+  "description": "AutobagnJS lib for Panda.",
   "main": "autobahn.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yurikuzn/autobahn-espo.git"
-  },
   "author": "",
   "license": "MIT"
 }
